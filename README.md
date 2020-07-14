@@ -1,5 +1,5 @@
-## Hey! 👋
+## hey! 👋
 
-Currently @ [KitchenMate](https://kitchenmate.com).
+\> currently @ [KitchenMate](https://kitchenmate.com).
 
-Check out my experience and projects on Github, or [here](https://rockzhou.com).
+\> check out my experience and projects on github, or [here](https://rockzhou.com).
