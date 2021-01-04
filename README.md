@@ -1,5 +1,5 @@
 ## hey! 👋
 
-\> currently looking for Winter 2021 software engineering internships!
+\> currently interning at @StackAdapt!
 
 \> check out my experience and projects on github, or [here](https://rockzhou.com).
